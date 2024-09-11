@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Tech Company
 - 📫 How to reach me in linkedin www.linkedin.com/in/mark-billiarder-manasye
-- 😄 Pronouns: Mark
+- 😄 Pronouns: Male
 - ⚡ Fun fact: If failed once that means i learn something.
 
 <!---
