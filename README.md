@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markmanasye
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Machine Learning & Computer Vision
+- 🌱 I’m currently learning Machine Learning & Computer Vision
 - 💞️ I’m looking to collaborate on Tech Company
 - 📫 How to reach me in linkedin www.linkedin.com/in/mark-billiarder-manasye
 - 😄 Pronouns: Male
